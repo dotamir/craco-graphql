@@ -10,7 +10,7 @@
   "keywords": [
     "craco",
     "cra",
-		"create-react-app",
+    "create-react-app",
     "react",
     "react-scripts",
     "graphql",
@@ -23,4 +23,16 @@
     "url": "https://github.com/dotamir/craco-graphql/issues"
   },
   "homepage": "https://github.com/dotamir/craco-graphql#readme",
+  "peerDependencies": {
+    "@craco/craco": "^6.0.0 || ^7.0.0"
+  },
+  "devDependencies": {
+    "@craco/craco": "^7.1.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "graphql-tag": "^2.12.6"
+  }
 }
