@@ -1,0 +1,26 @@
+{
+  "name": "craco-graphql",
+  "version": "0.0.1",
+  "description": "A craco plugin to use GraphQL with create-react-app",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotamir/craco-graphql.git"
+  },
+  "keywords": [
+    "craco",
+    "cra",
+		"create-react-app",
+    "react",
+    "react-scripts",
+    "graphql",
+    "loader",
+    "webpack-loader"
+  ],
+  "author": "dotamir <eslami.amir76@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotamir/craco-graphql/issues"
+  },
+  "homepage": "https://github.com/dotamir/craco-graphql#readme",
+}
